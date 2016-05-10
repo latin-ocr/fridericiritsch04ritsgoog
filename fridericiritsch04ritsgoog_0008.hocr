@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fridericiritsch04ritsgoog_0008.png"; bbox 0 0 950 1475; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 253 234 685 274">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 253 234 685 274">
+     <span class='ocr_line' id='line_1_1' title="bbox 253 234 685 274; baseline 0 -6"><span class='ocrx_word' id='word_1_1' title='bbox 253 234 445 268; x_wconf 82' lang='lat' dir='ltr'>FRIDERIGI</span> <span class='ocrx_word' id='word_1_2' title='bbox 467 235 685 274; x_wconf 79' lang='lat' dir='ltr'>RITSGHELII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 184 379 755 408">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 184 379 755 408">
+     <span class='ocr_line' id='line_1_2' title="bbox 184 379 755 408; baseline 0 -1"><span class='ocrx_word' id='word_1_3' title='bbox 184 379 410 407; x_wconf 82' lang='lat' dir='ltr'>OPVSCVLA</span> <span class='ocrx_word' id='word_1_4' title='bbox 442 379 755 408; x_wconf 85' lang='lat' dir='ltr'><strong>PHILOLOGICA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 340 587 536 615">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 340 587 536 615">
+     <span class='ocr_line' id='line_1_3' title="bbox 340 587 536 615; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 340 587 344 590; x_wconf 85' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 402 598 509 615; x_wconf 66' lang='grc' dir='ltr'><strong>νοινΜΕΝ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 521 598 536 614; x_wconf 86' lang='lat'><strong>1:</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 295 670 639 685">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 295 670 639 685">
+     <span class='ocr_line' id='line_1_4' title="bbox 295 670 639 685; baseline -0.003 -1"><span class='ocrx_word' id='word_1_8' title='bbox 295 670 320 684; x_wconf 77' lang='lat' dir='ltr'><strong>AD</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 331 670 421 684; x_wconf 78' lang='lat' dir='ltr'>LITTERAS</span> <span class='ocrx_word' id='word_1_10' title='bbox 432 670 515 685; x_wconf 75' lang='lat' dir='ltr'><strong>GRAECAS</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 527 670 583 684; x_wconf 78' lang='lat' dir='ltr'>SPECT</span> <span class='ocrx_word' id='word_1_12' title='bbox 588 670 639 684; x_wconf 61' lang='lat' dir='ltr'>&amp;NTIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 320 1088 618 1144">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 320 1088 618 1144">
+     <span class='ocr_line' id='line_1_5' title="bbox 420 1088 521 1107; baseline -0.01 0"><span class='ocrx_word' id='word_1_13' title='bbox 420 1088 521 1107; x_wconf 78' lang='lat' dir='ltr'>LlPSIAE</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 320 1129 618 1144; baseline -0.007 0"><span class='ocrx_word' id='word_1_14' title='bbox 320 1131 340 1144; x_wconf 83' lang='lat' dir='ltr'><strong>1N</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 354 1130 444 1144; x_wconf 72' lang='lat' dir='ltr'>Amnuvs</span> <span class='ocrx_word' id='word_1_16' title='bbox 457 1130 472 1143; x_wconf 74' lang='grc' dir='ltr'><strong>Β.</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 482 1130 499 1143; x_wconf 66' lang='grc' dir='ltr'><strong>ε,</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 509 1129 578 1143; x_wconf 72' lang='grc' dir='ltr'>ΤΕνυΝ</span> <span class='ocrx_word' id='word_1_19' title='bbox 581 1129 618 1142; x_wconf 71' lang='grc' dir='ltr'>ιιιιι</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
